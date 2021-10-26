@@ -1,7 +1,7 @@
 import discord
 
 bot = discord.Client()
-jeton = "ODEzNzE5MzQ1OTM4MDM4Nzk1.YDTZMg.FRCQlj9aThUO9oJfXC8ZSaIZPvk"
+jeton = "OTAyNjM2NjI1MTQ0NzE3MzIy.YXhT3Q.8vZbYzIaIC25Or0G-b15qIsVZW4"
 
 print("lancement du bot")
 
